@@ -11,6 +11,11 @@ protection.
 The HYDRO-OS AI Assistant provides a conversational interface that allows
 users to ask questions about the HYDRO-OS system and receive contextual
 answers based on a dedicated knowledge base.
+## 🔗 Live Demo
+
+Try the HYDRO-OS AI Assistant:
+
+[**Open HYDRO-OS AI Assistant →**](https://udify.app/chat/4xvWUak63BgP852u)
 
 ## ✨ Features
 
@@ -66,6 +71,11 @@ through an interactive AI interface.
 Instead of manually searching through project documentation, users can ask
 questions directly and receive relevant answers from the HYDRO-OS knowledge
 base.
+## 🔗 Live Demo
+
+Try the HYDRO-OS AI Assistant:
+
+[**Open HYDRO-OS AI Assistant →**](https://udify.app/chat/4xvWUak63BgP852u)
 
 ## 🌱 HYDRO-OS Concept
 
