@@ -100,15 +100,15 @@ implemented.
 
 ### AI Workflow
 
-![HYDRO-OS AI Assistant Workflow](<Screenshot%202026-08-11%20210510.png>)
+![HYDRO-OS AI Assistant Workflow](workflow.png)
 
 ### Chatbot Interface
 
-![HYDRO-OS AI Assistant Chat](<Screenshot%202026-08-11%20210630.png>)
+![HYDRO-OS AI Assistant Chat](Chatbot.png)
 
 ### Knowledge-Based Response
 
-![HYDRO-OS AI Assistant Response](<Screenshot%202026-08-11%20210907.png>)
+![HYDRO-OS AI Assistant Response](LLM.png)
 
 
 ## 👩‍💻 Author
