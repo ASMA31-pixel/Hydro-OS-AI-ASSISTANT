@@ -96,10 +96,20 @@ implemented.
 - Multi-language support
 - Voice-based interaction
 - Integration with hydroponic control systems
-
 ## 📸 Screenshots
 
-Screenshots and demonstration images will be added here.
+### AI Workflow
+
+![HYDRO-OS AI Assistant Workflow](<Screenshot%202026-08-11%20210510.png>)
+
+### Chatbot Interface
+
+![HYDRO-OS AI Assistant Chat](<Screenshot%202026-08-11%20210630.png>)
+
+### Knowledge-Based Response
+
+![HYDRO-OS AI Assistant Response](<Screenshot%202026-08-11%20210907.png>)
+
 
 ## 👩‍💻 Author
 
